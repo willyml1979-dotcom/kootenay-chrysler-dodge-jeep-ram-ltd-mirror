@@ -1,6 +1,6 @@
 {
   "dealership": "Kootenay Chrysler Dodge Jeep Ram Ltd",
-  "generated_at": "2026-09-27T01:21:43",
+  "generated_at": "2026-10-08T14:40:05",
   "vehicle_count": 87,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -16,7 +16,9 @@
       "price": 13989.0,
       "price_currency": "CAD",
       "odometer_km": 174017,
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "Used2015 Yamaha XV1900 Roadliner, stk P1621B, for sale in Trail, BC",
@@ -29,7 +31,9 @@
       "price": 8995.0,
       "price_currency": "CAD",
       "odometer_km": 32000,
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "Used2016 Ram 1500 SPORT, stk P2078, for sale in Trail, BC",
@@ -42,7 +46,9 @@
       "price": 27989.0,
       "price_currency": "CAD",
       "odometer_km": 106665,
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "Used2017 Ford Mustang GT PREMIUM, stk 26142B, for sale in Trail, BC",
@@ -55,7 +61,9 @@
       "price": 35498.0,
       "price_currency": "CAD",
       "odometer_km": 39602,
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "Used2017 Honda CR-V EX-L, stk 23064B, for sale in Trail, BC",
@@ -68,7 +76,9 @@
       "price": 23989.0,
       "price_currency": "CAD",
       "odometer_km": 122376,
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "Used2017 Jeep Cherokee NORTH, stk 25109B, for sale in Trail, BC",
@@ -81,7 +91,9 @@
       "price": 13989.0,
       "price_currency": "CAD",
       "odometer_km": 172775,
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "Used2018 POLARIS RZR 900, stk 26098A, for sale in Trail, BC",
@@ -94,7 +106,9 @@
       "price": 9995.0,
       "price_currency": "CAD",
       "odometer_km": 4512,
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "Used2019 Dodge Grand Caravan CREW, stk 27000A, for sale in Trail, BC",
@@ -107,7 +121,9 @@
       "price": 10989.0,
       "price_currency": "CAD",
       "odometer_km": 188612,
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "Used2020 Jeep Cherokee TRAILHAWK ELITE, stk 23176A, for sale in Trail, BC",
@@ -120,7 +136,9 @@
       "price": 23498.0,
       "price_currency": "CAD",
       "odometer_km": 123679,
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "Used2020 Jeep Gladiator OVERLAND, stk 26142A, for sale in Trail, BC",
@@ -133,7 +151,9 @@
       "price": 35498.0,
       "price_currency": "CAD",
       "odometer_km": 99995,
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "Used2020 Ram 1500 BIG HORN, stk 26152A, for sale in Trail, BC",
@@ -146,7 +166,9 @@
       "price": 36498.0,
       "price_currency": "CAD",
       "odometer_km": 72625,
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "Used2021 GOLF CART GOLF CART GOLF CART, stk P2005, for sale in Trail, BC",
@@ -158,7 +180,9 @@
       "last_verified": "2026-09-27T01:15:33",
       "price": 6989.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "Used2021 Ram 1500 Classic EXPRESS, stk P1945A, for sale in Trail, BC",
@@ -171,7 +195,9 @@
       "price": 24989.0,
       "price_currency": "CAD",
       "odometer_km": 186396,
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "Used2022 Jeep Grand Cherokee 4xe TRAILHAWK, stk 26011A, for sale in Trail, BC",
@@ -184,7 +210,9 @@
       "price": 36889.0,
       "price_currency": "CAD",
       "odometer_km": 97202,
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "Used2022 Ram 1500 Classic SLT, stk P1959B, for sale in Trail, BC serving Kelowna",
@@ -197,7 +225,9 @@
       "price": 38989.0,
       "price_currency": "CAD",
       "odometer_km": 74367,
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "Used2022 Ram 1500 Classic WARLOCK, stk P2021C, for sale in Trail, BC",
@@ -210,7 +240,9 @@
       "price": 36989.0,
       "price_currency": "CAD",
       "odometer_km": 41549,
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "Used2022 Ram 1500 SPORT, stk P2038, for sale in Trail, BC",
@@ -223,7 +255,9 @@
       "price": 43498.0,
       "price_currency": "CAD",
       "odometer_km": 69009,
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "Used2022 Ram 1500 SPORT, stk P2039A, for sale in Trail, BC serving Kelowna",
@@ -236,7 +270,9 @@
       "price": 45989.0,
       "price_currency": "CAD",
       "odometer_km": 62149,
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "Used2022 Ram 1500 REBEL, stk P2059, for sale in Trail, BC serving Kelowna",
@@ -249,7 +285,9 @@
       "price": 45989.0,
       "price_currency": "CAD",
       "odometer_km": 98860,
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "Used2022 Ram 3500 LARAMIE, stk P2096, for sale in Trail, BC",
@@ -260,7 +298,9 @@
       "dealer_url": "https://www.kootenaychryslerdealer.com/inventory/Used-2022-Ram-3500/1616304?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:16:55",
       "odometer_km": 39506,
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "Used2023 Ram 3500 LARAMIE, stk 26072B, for sale in Trail, BC",
@@ -273,7 +313,9 @@
       "price": 72989.0,
       "price_currency": "CAD",
       "odometer_km": 96436,
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "Used2023 Subaru WRX BASE, stk 26074B, for sale in Trail, BC",
@@ -286,7 +328,9 @@
       "price": 29989.0,
       "price_currency": "CAD",
       "odometer_km": 21536,
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "Used2024 Jeep Compass SPORT, stk 24155, for sale in Trail, BC",
@@ -299,7 +343,9 @@
       "price": 24989.0,
       "price_currency": "CAD",
       "odometer_km": 26467,
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "Used2024 Ram 2500 REBEL, stk P1984A, for sale in Trail, BC",
@@ -312,7 +358,9 @@
       "price": 76989.0,
       "price_currency": "CAD",
       "odometer_km": 53213,
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "Used2024 Ram 3500 LARAMIE, stk 26025A, for sale in Trail, BC",
@@ -325,7 +373,9 @@
       "price": 79989.0,
       "price_currency": "CAD",
       "odometer_km": 12998,
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "Used2026 Ram 3500 LARAMIE, stk P2085, for sale in Trail, BC serving British Columbia",
@@ -338,7 +388,9 @@
       "price": 98498.0,
       "price_currency": "CAD",
       "odometer_km": 2110,
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2025 Jeep Compass SPORT, stk 25099, for sale in Trail, BC serving Fruitvale",
@@ -350,7 +402,9 @@
       "last_verified": "2026-09-26T01:14:56",
       "price": 35540.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2025 Jeep Compass SPORT, stk 25102, for sale in Trail, BC serving Rossland",
@@ -362,7 +416,9 @@
       "last_verified": "2026-09-26T01:15:05",
       "price": 34980.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Chrysler Pacifica SELECT, stk 26003, for sale in Trail, BC",
@@ -375,7 +431,9 @@
       "price": 59935.0,
       "price_currency": "CAD",
       "odometer_km": 7847,
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Dodge Durango GT PLUS, stk 26005, for sale in Trail, BC serving British Columbia",
@@ -387,7 +445,9 @@
       "last_verified": "2026-09-26T01:15:21",
       "price": 61370.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Dodge Durango GT PLUS, stk 26006, for sale in Trail, BC serving Kelowna",
@@ -400,7 +460,9 @@
       "price": 61470.0,
       "price_currency": "CAD",
       "odometer_km": 4069,
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Jeep Cherokee LIMITED, stk 26080, for sale in Trail, BC",
@@ -412,7 +474,9 @@
       "last_verified": "2026-09-26T01:15:36",
       "price": 56575.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Jeep Cherokee LAREDO, stk 26078, for sale in Trail, BC serving Fruitvale",
@@ -425,7 +489,9 @@
       "price": 47180.0,
       "price_currency": "CAD",
       "odometer_km": 3572,
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Jeep Cherokee LAREDO, stk 26100, for sale in Trail, BC serving British Columbia",
@@ -437,7 +503,9 @@
       "last_verified": "2026-09-26T01:15:52",
       "price": 47180.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Jeep Cherokee LAREDO, stk 26118, for sale in Trail, BC serving Fruitvale",
@@ -449,7 +517,9 @@
       "last_verified": "2026-09-26T01:15:59",
       "price": 46885.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Jeep Cherokee LAREDO, stk 26122, for sale in Trail, BC",
@@ -461,7 +531,9 @@
       "last_verified": "2026-09-26T01:16:07",
       "price": 47385.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Jeep Cherokee LAREDO, stk 26126, for sale in Trail, BC serving Kelowna",
@@ -473,7 +545,9 @@
       "last_verified": "2026-09-26T01:16:16",
       "price": 47385.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Jeep Cherokee LAREDO, stk 26121, for sale in Trail, BC serving Fruitvale",
@@ -485,7 +559,9 @@
       "last_verified": "2026-09-26T01:16:24",
       "price": 47385.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Jeep Cherokee LAREDO, stk 26120, for sale in Trail, BC",
@@ -498,7 +574,9 @@
       "price": 46890.0,
       "price_currency": "CAD",
       "odometer_km": 1399,
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Jeep Cherokee OVERLAND, stk 26138, for sale in Trail, BC serving British Columbia",
@@ -510,7 +588,9 @@
       "last_verified": "2026-09-26T01:16:38",
       "price": 57380.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Jeep Cherokee LAREDO, stk 26149, for sale in Trail, BC serving Fruitvale",
@@ -522,7 +602,9 @@
       "last_verified": "2026-09-26T01:16:47",
       "price": 46890.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Jeep Cherokee LIMITED, stk 26150, for sale in Trail, BC serving Rossland",
@@ -534,7 +616,9 @@
       "last_verified": "2026-09-27T01:19:56",
       "price": 57075.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Jeep Cherokee LAREDO, stk 26151, for sale in Trail, BC serving Fruitvale",
@@ -546,7 +630,9 @@
       "last_verified": "2026-09-27T01:20:04",
       "price": 47385.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Jeep Cherokee OVERLAND, stk 26154, for sale in Trail, BC serving Kelowna",
@@ -558,7 +644,9 @@
       "last_verified": "2026-09-27T01:20:11",
       "price": 57985.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Jeep Cherokee OVERLAND, stk 26153, for sale in Trail, BC serving Fruitvale",
@@ -570,7 +658,9 @@
       "last_verified": "2026-09-27T01:20:17",
       "price": 58480.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Jeep Cherokee Base, stk 26166, for sale in Trail, BC serving Rossland",
@@ -582,7 +672,9 @@
       "last_verified": "2026-09-27T01:20:24",
       "price": 42885.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Jeep Compass SPORT, stk 26021, for sale in Trail, BC serving Fruitvale",
@@ -594,7 +686,9 @@
       "last_verified": "2026-09-27T01:20:32",
       "price": 35995.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Jeep Compass SPORT, stk 26033, for sale in Trail, BC serving Fruitvale",
@@ -606,7 +700,9 @@
       "last_verified": "2026-09-27T01:20:39",
       "price": 36390.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Jeep Gladiator WILLYS, stk 26110, for sale in Trail, BC",
@@ -618,7 +714,9 @@
       "last_verified": "2026-09-27T01:20:46",
       "price": 55500.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Jeep Grand Cherokee L ALTITUDE, stk 26119, for sale in Trail, BC serving Rossland",
@@ -630,7 +728,9 @@
       "last_verified": "2026-09-27T01:20:55",
       "price": 67475.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Jeep Grand Cherokee L ALTITUDE, stk 26148, for sale in Trail, BC serving Kelowna",
@@ -642,7 +742,9 @@
       "last_verified": "2026-09-27T01:21:01",
       "price": 73475.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Jeep Grand Cherokee LIMITED, stk 26097, for sale in Trail, BC serving Kelowna",
@@ -654,7 +756,9 @@
       "last_verified": "2026-09-27T01:21:09",
       "price": 69675.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Jeep Grand Cherokee LIMITED, stk 26096, for sale in Trail, BC serving Rossland",
@@ -666,7 +770,9 @@
       "last_verified": "2026-09-27T01:21:16",
       "price": 69675.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Jeep Wrangler WILLYS, stk 26157, for sale in Trail, BC serving Kelowna",
@@ -678,7 +784,9 @@
       "last_verified": "2026-09-27T01:21:24",
       "price": 63360.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Jeep Wrangler SPORT, stk 26147, for sale in Trail, BC serving British Columbia",
@@ -690,7 +798,9 @@
       "last_verified": "2026-09-27T01:21:31",
       "price": 44580.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Jeep Wrangler WILLYS, stk 26172, for sale in Trail, BC serving British Columbia",
@@ -702,7 +812,9 @@
       "last_verified": "2026-09-27T01:21:37",
       "price": 70330.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Jeep Wrangler WILLYS, stk 26175, for sale in Trail, BC serving Fruitvale",
@@ -714,7 +826,9 @@
       "last_verified": "2026-09-25T00:09:15",
       "price": 70030.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Ram 1500 LARAMIE, stk 26127, for sale in Trail, BC serving Rossland",
@@ -726,7 +840,9 @@
       "last_verified": "2026-09-25T00:09:24",
       "price": 82855.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Ram 1500 LARAMIE, stk 26131, for sale in Trail, BC serving Rossland",
@@ -738,7 +854,9 @@
       "last_verified": "2026-09-25T00:09:33",
       "price": 82855.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Ram 1500 LARAMIE, stk 26140, for sale in Trail, BC serving Kelowna",
@@ -750,7 +868,9 @@
       "last_verified": "2026-09-25T00:09:40",
       "price": 83655.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Ram 1500 TUNGSTEN, stk 26146, for sale in Trail, BC serving Kelowna",
@@ -762,7 +882,9 @@
       "last_verified": "2026-09-25T00:09:48",
       "price": 99230.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Ram 1500 TUNGSTEN, stk 26145, for sale in Trail, BC serving Fruitvale",
@@ -774,7 +896,9 @@
       "last_verified": "2026-09-25T00:09:56",
       "price": 99130.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Ram 1500 SPORT, stk 26165, for sale in Trail, BC serving Kelowna",
@@ -786,7 +910,9 @@
       "last_verified": "2026-09-25T00:10:03",
       "price": 86700.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Ram 1500 SPORT, stk 26164, for sale in Trail, BC serving Kelowna",
@@ -798,7 +924,9 @@
       "last_verified": "2026-09-25T00:10:11",
       "price": 86700.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Ram 1500 REBEL, stk 26161, for sale in Trail, BC serving Fruitvale",
@@ -810,7 +938,9 @@
       "last_verified": "2026-09-25T00:10:19",
       "price": 81910.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Ram 1500 SPORT, stk 26163, for sale in Trail, BC serving British Columbia",
@@ -822,7 +952,9 @@
       "last_verified": "2026-09-25T00:10:29",
       "price": 86600.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Ram 1500 REBEL, stk 26173, for sale in Trail, BC",
@@ -834,7 +966,9 @@
       "last_verified": "2026-09-25T00:10:35",
       "price": 84610.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Ram 3500 BIG HORN, stk 26014, for sale in Trail, BC serving Fruitvale",
@@ -846,7 +980,9 @@
       "last_verified": "2026-09-25T00:10:42",
       "price": 88315.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Ram 3500 BIG HORN, stk 26019, for sale in Trail, BC serving British Columbia",
@@ -858,7 +994,9 @@
       "last_verified": "2026-09-25T00:10:49",
       "price": 88315.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Ram 3500 BIG HORN, stk 26016, for sale in Trail, BC serving British Columbia",
@@ -870,7 +1008,9 @@
       "last_verified": "2026-09-25T00:10:58",
       "price": 88215.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Ram 3500 LARAMIE, stk 26042, for sale in Trail, BC serving Fruitvale",
@@ -882,7 +1022,9 @@
       "last_verified": "2026-09-25T00:11:07",
       "price": 104205.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Ram 3500 LIMITED, stk 26084, for sale in Trail, BC",
@@ -894,7 +1036,9 @@
       "last_verified": "2026-09-25T00:11:16",
       "price": 110765.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Ram 3500 LIMITED, stk 26104, for sale in Trail, BC",
@@ -906,7 +1050,9 @@
       "last_verified": "2026-09-25T00:11:23",
       "price": 117955.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Ram 3500 LIMITED, stk 26085, for sale in Trail, BC serving Kelowna",
@@ -918,7 +1064,9 @@
       "last_verified": "2026-09-25T00:11:30",
       "price": 110765.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Ram 3500 LIMITED, stk 26105, for sale in Trail, BC serving British Columbia",
@@ -930,7 +1078,9 @@
       "last_verified": "2026-09-25T00:11:38",
       "price": 118550.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "New2026 Ram 3500 BIG HORN, stk 26108, for sale in Trail, BC serving British Columbia",
@@ -942,7 +1092,9 @@
       "last_verified": "2026-09-25T00:11:46",
       "price": 89910.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2009 Jayco EMBARK QX390",
@@ -959,7 +1111,9 @@
       "year": 2009,
       "make": "Jayco",
       "model": "EMBARK QX390",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2016 Adventurer Eagle Cap 960",
@@ -975,7 +1129,9 @@
       "year": 2016,
       "make": "Adventurer",
       "model": "Eagle Cap 960",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2016 Forest River Wildwood 201BHXL",
@@ -990,7 +1146,9 @@
       "year": 2016,
       "make": "Forest",
       "model": "River Wildwood 201BHXL",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2018 Jayco WHITEHAWK 26RK",
@@ -1005,7 +1163,9 @@
       "year": 2018,
       "make": "Jayco",
       "model": "WHITEHAWK 26RK",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2018 TRAVELITE FALCON LITE",
@@ -1020,7 +1180,9 @@
       "year": 2018,
       "make": "TRAVELITE",
       "model": "FALCON LITE",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2020 Forest River Cedar Creek HATHAWAY CRT40C20",
@@ -1035,7 +1197,9 @@
       "year": 2020,
       "make": "Forest",
       "model": "River Cedar Creek HATHAWAY CRT40C20",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2021 Keystone Hideout 177RD",
@@ -1049,7 +1213,9 @@
       "year": 2021,
       "make": "Keystone",
       "model": "Hideout 177RD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2022 Heartland MALLARD IDM210RB",
@@ -1065,7 +1231,9 @@
       "year": 2022,
       "make": "Heartland",
       "model": "MALLARD IDM210RB",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2022 Highland Ridge Open Range 26BH",
@@ -1081,7 +1249,9 @@
       "year": 2022,
       "make": "Highland",
       "model": "Ridge Open Range 26BH",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2024 BRAXTON CREEK BUSHWHACKER PLUS 17BH",
@@ -1097,7 +1267,9 @@
       "year": 2024,
       "make": "BRAXTON",
       "model": "CREEK BUSHWHACKER PLUS 17BH",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2024 Starcraft AUTUMN RIDGE 26BHS",
@@ -1113,7 +1285,9 @@
       "year": 2024,
       "make": "Starcraft",
       "model": "AUTUMN RIDGE 26BHS",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     }
   ]
 }
