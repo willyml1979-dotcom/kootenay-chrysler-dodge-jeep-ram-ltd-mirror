@@ -1,15 +1,23 @@
 {
   "dealership": "Kootenay Chrysler Dodge Jeep Ram Ltd",
-  "generated_at": "2026-11-16T19:08:47",
-  "vehicle_count": 96,
+  "generated_at": "2026-11-16T23:40:15",
+  "vehicle_count": 107,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "Used2013 Ram Ram 1500 BASE, stk P1984B, for sale in Trail, BC",
-      "vin": "1C6RR7GT8DS551199",
-      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/a04dcd76b0f1.html",
+      "name": "Used2007 Honda Odyssey EX-L, stk P2144A, for sale in Trail, BC",
+      "vin": "5FNRL38747B501342",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/6e630c8db47b.html",
       "condition": "used"
+    },
+    {
+      "name": "Used2013 Ram 1500 Outdoorsman, stk P1984B, for sale in Trail, BC",
+      "vin": "1C6RR7GT8DS551199",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/848ee15f698e.html",
+      "condition": "used",
+      "price": 18498.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Used2015 Yamaha XV1900 Roadliner, stk P1621B, for sale in Trail, BC",
@@ -32,7 +40,7 @@
       "vin": "1C4SDJET7HC747885",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/c0e2ffe10c18.html",
       "condition": "used",
-      "price": 64735.0,
+      "price": 19998.0,
       "price_currency": "CAD"
     },
     {
@@ -40,27 +48,19 @@
       "vin": "1FA6P8CF4H5318826",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/275078e3e92b.html",
       "condition": "used",
-      "price": 35498.0,
+      "price": 33498.0,
       "price_currency": "CAD"
     },
     {
-      "name": "Used2017 Honda CR-V EX-L, stk 23064B, for sale in Trail, BC",
-      "vin": "2HKRW2H81HH133439",
-      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/b2112de9111b.html",
+      "name": "Used2018 Jeep Cherokee TRAILHAWK, stk 26172A, for sale in Trail, BC",
+      "vin": "1C4PJMBX1JD581404",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/259916f1d93f.html",
       "condition": "used",
-      "price": 22989.0,
+      "price": 48455.0,
       "price_currency": "CAD"
     },
     {
-      "name": "Used2018 Jeep Compass SPORT, stk 26021A, for sale in Trail, BC",
-      "vin": "3C4NJDABXJT108270",
-      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/920764fa6d7d.html",
-      "condition": "used",
-      "price": 12498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Used2018 POLARIS RZR 900, stk 26098A, for sale in Trail, BC",
+      "name": "Used2018 POLARIS RZR 900 + Plow, stk 26098A, for sale in Trail, BC",
       "vin": "3NSVAA875JH461565",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/b3ac8bf9d07b.html",
       "condition": "used",
@@ -68,20 +68,54 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Used2019 Dodge Grand Caravan CANADA VALUE PACKAGE, stk 27037A, for sale in Trail, BC",
+      "vin": "2C4RDGBG7KR664500",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/7da48cda87cd.html",
+      "condition": "used",
+      "price": 19989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2019 Honda Civic Sedan TOURING, stk P2144, for sale in Trail, BC",
+      "vin": "2HGFC1F92KH100601",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/bc78529da387.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2019 Ram 1500 REBEL, stk 23064C, for sale in Trail, BC",
+      "vin": "1C6SRFLT0KN533244",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/045875b3a665.html",
+      "condition": "used"
+    },
+    {
       "name": "Used2020 Jeep Gladiator OVERLAND, stk 26142A, for sale in Trail, BC",
       "vin": "1C6HJTFGXLL183486",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/a20e42f6f0ce.html",
       "condition": "used",
-      "price": 35498.0,
+      "price": 34889.0,
       "price_currency": "CAD"
     },
     {
-      "name": "Used2021 GOLF CART GOLF CART GOLF CART, stk P2005, for sale in Trail, BC",
+      "name": "Used2021 Jeep Grand Cherokee L LIMITED, stk 26003A, for sale in Trail, BC",
+      "vin": "1C4RJKBG7M8156473",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/15e617c70cd5.html",
+      "condition": "used",
+      "price": 29998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2021 Yamaha GOLF CART, stk P2005, for sale in Trail, BC",
       "vin": "00000000J0J406609",
-      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/5133e9a3aeb6.html",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/94b9ab8dc2ea.html",
       "condition": "used",
       "price": 6989.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "Used2022 Ford F-150 PLATINUM, stk 26176A, for sale in Trail, BC",
+      "vin": "1FTFW1EDXNFB00976",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/7065fd904d6b.html",
+      "condition": "used"
     },
     {
       "name": "Used2022 Jeep Compass NORTH, stk 26006A, for sale in Trail, BC",
@@ -108,12 +142,10 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Used2022 Ram 1500 REBEL, stk P2059, for sale in Trail, BC serving Kelowna",
-      "vin": "1C6SRFLM1NN118432",
-      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/f173217ccc24.html",
-      "condition": "used",
-      "price": 45989.0,
-      "price_currency": "CAD"
+      "name": "Used2022 Tesla Model 3 BASE, stk P2143, for sale in Trail, BC",
+      "vin": "5YJ3E1EA6NF211279",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/d4b29fd4a1ec.html",
+      "condition": "used"
     },
     {
       "name": "Used2023 Jeep Wrangler RUBICON, stk P2116, for sale in Trail, BC",
@@ -148,11 +180,39 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Used2024 Ram 2500 REBEL, stk P1984A, for sale in Trail, BC",
-      "vin": "3C6UR5EL3RG292539",
-      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/2288e46a3dab.html",
+      "name": "Used2023 Toyota Tacoma TRD Sport, stk P2129, for sale in Trail, BC",
+      "vin": "3TYDZ5BN9PT036634",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/ca709146e66b.html",
       "condition": "used",
-      "price": 76989.0,
+      "price": 48989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2024 Chevrolet Trax 1RS, stk P2140, for sale in Trail, BC",
+      "vin": "KL77LGE27RC057961",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/ae1206f35825.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2024 Jeep Grand Cherokee LIMITED, stk 27036A, for sale in Trail, BC",
+      "vin": "1C4RJHBG7RC218638",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/a78b50c0d581.html",
+      "condition": "used",
+      "price": 75340.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2025 Honda CIVIC SEDAN HYBRID SPORT TOURING, stk P2142, for sale in Trail, BC",
+      "vin": "2HGFE4F87SH008368",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/e67676195846.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2025 Jeep Wrangler WILLYS, stk P2141, for sale in Trail, BC",
+      "vin": "1C4PJXDG9SW590159",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/8232b577afae.html",
+      "condition": "used",
+      "price": 49989.0,
       "price_currency": "CAD"
     },
     {
@@ -164,11 +224,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Used2026 Mercedes-Benz CLA 250, stk P2139, for sale in Trail, BC",
+      "vin": "W1K5J4HB9TN575095",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/165f57af28dd.html",
+      "condition": "used"
+    },
+    {
       "name": "Used2026 Ram 3500 LARAMIE, stk P2085, for sale in Trail, BC serving British Columbia",
       "vin": "3C63R3EL3TG285565",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/2be4c8454a47.html",
       "condition": "used",
-      "price": 98498.0,
+      "price": 94889.0,
       "price_currency": "CAD"
     },
     {
@@ -674,6 +740,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2012 Arctic Fox Arctic Fox 1150",
+      "vin": "1NCB11503C0109202",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/c3d14ff94533.html",
+      "year": 2012,
+      "make": "Arctic",
+      "model": "Fox Arctic Fox 1150",
+      "condition": "used",
+      "price": 22989.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2016 Adventurer Eagle Cap 960",
       "vin": "000000ECC96050503",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/71525666c418.html",
@@ -692,7 +769,7 @@
       "make": "Forest",
       "model": "River Wildwood 201BHXL",
       "condition": "used",
-      "price": 17498.0,
+      "price": 15989.0,
       "price_currency": "CAD"
     },
     {
@@ -703,7 +780,7 @@
       "make": "Jayco",
       "model": "WHITEHAWK 26RK",
       "condition": "used",
-      "price": 25498.0,
+      "price": 23498.0,
       "price_currency": "CAD"
     },
     {
@@ -758,7 +835,7 @@
       "make": "Heartland",
       "model": "MALLARD IDM210RB",
       "condition": "used",
-      "price": 27498.0,
+      "price": 23448.0,
       "price_currency": "CAD"
     },
     {
@@ -769,18 +846,7 @@
       "make": "Highland",
       "model": "Ridge Open Range 26BH",
       "condition": "used",
-      "price": 21498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 BRAXTON CREEK BUSHWHACKER PLUS 17BH",
-      "vin": "7HFB1KE11R17Y1396",
-      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/6c594056c145.html",
-      "year": 2024,
-      "make": "BRAXTON",
-      "model": "CREEK BUSHWHACKER PLUS 17BH",
-      "condition": "used",
-      "price": 22989.0,
+      "price": 18885.0,
       "price_currency": "CAD"
     },
     {
@@ -791,7 +857,7 @@
       "make": "Keystone",
       "model": "Springdale MINI 1800BH",
       "condition": "used",
-      "price": 19989.0,
+      "price": 18488.0,
       "price_currency": "CAD"
     },
     {
@@ -802,7 +868,18 @@
       "make": "Starcraft",
       "model": "AUTUMN RIDGE 26BHS",
       "condition": "used",
-      "price": 36989.0,
+      "price": 33898.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Northern Lite 8-11 EX LE",
+      "vin": "00NL811EX613425LE",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/cbb5f8b1cd92.html",
+      "year": 2025,
+      "make": "Northern",
+      "model": "Lite 8-11 EX LE",
+      "condition": "used",
+      "price": 69850.0,
       "price_currency": "CAD"
     }
   ]
