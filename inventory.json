@@ -1,7 +1,7 @@
 {
   "dealership": "Kootenay Chrysler Dodge Jeep Ram Ltd",
-  "generated_at": "2026-10-26T04:46:30",
-  "vehicle_count": 87,
+  "generated_at": "2026-11-16T19:08:47",
+  "vehicle_count": 96,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -296,7 +296,7 @@
       "vin": "3C4PJMB2XTT276002",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/199a1dc24f1c.html",
       "condition": "new",
-      "price": 47385.0,
+      "price": 46385.0,
       "price_currency": "CAD"
     },
     {
@@ -304,7 +304,7 @@
       "vin": "3C4PJMC21TT272791",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/97a6ecdadfe3.html",
       "condition": "new",
-      "price": 57985.0,
+      "price": 57485.0,
       "price_currency": "CAD"
     },
     {
@@ -312,7 +312,7 @@
       "vin": "3C4PJMC2XTT272790",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/497a3ca15525.html",
       "condition": "new",
-      "price": 58480.0,
+      "price": 57980.0,
       "price_currency": "CAD"
     },
     {
@@ -320,7 +320,7 @@
       "vin": "3C4PJMA25TT204920",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/9d66c362e5b5.html",
       "condition": "new",
-      "price": 42885.0,
+      "price": 41385.0,
       "price_currency": "CAD"
     },
     {
@@ -328,7 +328,7 @@
       "vin": "3C4PJMC23TT272792",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/840335c165b2.html",
       "condition": "new",
-      "price": 58480.0,
+      "price": 57980.0,
       "price_currency": "CAD"
     },
     {
@@ -344,15 +344,21 @@
       "vin": "1C6PJTAG0TL184343",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/a6cfd1bfd3ec.html",
       "condition": "new",
-      "price": 55500.0,
+      "price": 49998.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "New2026 Jeep Gladiator WILLYS, stk 26179, for sale in Trail, BC serving Kelowna",
+      "vin": "1C6PJTAG9TL184342",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/700c9fa8d0f2.html",
+      "condition": "new"
     },
     {
       "name": "New2026 Jeep Grand Cherokee L ALTITUDE, stk 26119, for sale in Trail, BC serving Rossland",
       "vin": "1C4RJKAR6T8585833",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/f03fca45127c.html",
       "condition": "new",
-      "price": 67475.0,
+      "price": 62850.0,
       "price_currency": "CAD"
     },
     {
@@ -360,7 +366,7 @@
       "vin": "1C4RJKAR7T8587946",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/be25d0b7d24b.html",
       "condition": "new",
-      "price": 67475.0,
+      "price": 65975.0,
       "price_currency": "CAD"
     },
     {
@@ -368,7 +374,7 @@
       "vin": "1C4RJHAR1TC250060",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/0b19eb0c40db.html",
       "condition": "new",
-      "price": 69675.0,
+      "price": 64985.0,
       "price_currency": "CAD"
     },
     {
@@ -376,7 +382,7 @@
       "vin": "1C4PJXDG9TW324092",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/ebe337a11e70.html",
       "condition": "new",
-      "price": 63360.0,
+      "price": 59998.0,
       "price_currency": "CAD"
     },
     {
@@ -385,14 +391,6 @@
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/017863973984.html",
       "condition": "new",
       "price": 44580.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2026 Jeep Wrangler WILLYS, stk 26172, for sale in Trail, BC serving British Columbia",
-      "vin": "1C4RJXDG1TW332213",
-      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/38f72c0c659d.html",
-      "condition": "new",
-      "price": 70330.0,
       "price_currency": "CAD"
     },
     {
@@ -468,6 +466,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New2026 Ram 1500 SPORT, stk 26162, for sale in Trail, BC serving Fruitvale",
+      "vin": "1C6SRFTP4TN445415",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/cdbdd1ba2dd4.html",
+      "condition": "new",
+      "price": 81700.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New2026 Ram 1500 SPORT, stk 26163, for sale in Trail, BC serving British Columbia",
       "vin": "1C6SRFTP0TN445413",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/b72ec70f3952.html",
@@ -481,6 +487,14 @@
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/de4b3c4d78b7.html",
       "condition": "new",
       "price": 89610.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026 Ram 1500 WARLOCK, stk 26177, for sale in Trail, BC",
+      "vin": "3C6SRFGP1T4211706",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/1e7bb63daa01.html",
+      "condition": "new",
+      "price": 61675.0,
       "price_currency": "CAD"
     },
     {
@@ -548,6 +562,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New2027 Chrysler Pacifica AWD Select, stk 27025, for sale in Trail, BC serving Kelowna",
+      "vin": "2C4RC3BG2VR622350",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/2338c39c3e3b.html",
+      "condition": "new",
+      "price": 58590.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New2027 Dodge Charger SCAT PACK PLUS, stk 27011, for sale in Trail, BC",
       "vin": "2C3CDAMP8VR606386",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/5c5df3175d48.html",
@@ -556,11 +578,27 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New2027 Jeep Wrangler MOAB 392, stk 27034, for sale in Trail, BC",
+      "vin": "1C4RJXSJ3VW581081",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/5e2852b3b054.html",
+      "condition": "new",
+      "price": 108875.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2027 Ram 1500 SPORT, stk 27017, for sale in Trail, BC",
+      "vin": "1C6SRFVT0VN598757",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/e73251ab6658.html",
+      "condition": "new",
+      "price": 92035.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New2027 Ram 1500 REBEL, stk 27024, for sale in Trail, BC serving Kelowna",
       "vin": "1C6SRFLT8VN598749",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/555e8183c5ee.html",
       "condition": "new",
-      "price": 94760.0,
+      "price": 87260.0,
       "price_currency": "CAD"
     },
     {
@@ -569,6 +607,14 @@
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/9ab96fa6879b.html",
       "condition": "new",
       "price": 92260.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2027 Ram 1500 SPORT, stk 27020, for sale in Trail, BC serving Rossland",
+      "vin": "1C6SRFVT7VN598755",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/eb54f4357607.html",
+      "condition": "new",
+      "price": 91440.0,
       "price_currency": "CAD"
     },
     {
@@ -588,6 +634,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New2027 Ram 1500 REBEL, stk 27027, for sale in Trail, BC",
+      "vin": "1C6SRFLT4VN598747",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/bb1b53474f02.html",
+      "condition": "new",
+      "price": 87160.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New2027 Ram 2500 BLACK EXPRESS, stk 27026, for sale in Trail, BC serving Fruitvale",
       "vin": "3C63R5CL0VG409325",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/cb045e80726b.html",
@@ -601,6 +655,22 @@
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/c46eb69ed864.html",
       "condition": "new",
       "price": 98810.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2027 Ram 2500 BLACK EXPRESS, stk 27030, for sale in Trail, BC serving Fruitvale",
+      "vin": "3C63R5CL9VG409324",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/18eea38df83d.html",
+      "condition": "new",
+      "price": 90310.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2027 Ram 3500 TRADESMAN, stk 27029, for sale in Trail, BC",
+      "vin": "3C63R3GL4VG410928",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/11e86318dad6.html",
+      "condition": "new",
+      "price": 89050.0,
       "price_currency": "CAD"
     },
     {
