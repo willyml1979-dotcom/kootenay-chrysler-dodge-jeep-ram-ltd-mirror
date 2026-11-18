@@ -1,7 +1,7 @@
 {
   "dealership": "Kootenay Chrysler Dodge Jeep Ram Ltd",
-  "generated_at": "2026-11-18T06:19:56",
-  "vehicle_count": 106,
+  "generated_at": "2026-11-18T14:52:09",
+  "vehicle_count": 107,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -94,6 +94,12 @@
       "condition": "used",
       "price": 34889.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "Used2020 Ram 2500 POWER WAGON, stk 26019A, for sale in Trail, BC",
+      "vin": "3C6TR5EJ3LG250132",
+      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/8114b0d3f150.html",
+      "condition": "used"
     },
     {
       "name": "Used2021 Jeep Grand Cherokee L LIMITED, stk 26003A, for sale in Trail, BC",
