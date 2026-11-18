@@ -1,6 +1,6 @@
 {
   "dealership": "Kootenay Chrysler Dodge Jeep Ram Ltd",
-  "generated_at": "2026-11-17T19:22:12",
+  "generated_at": "2026-11-17T20:46:34",
   "vehicle_count": 106,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -122,7 +122,7 @@
       "vin": "3C4NJDBB5NT141942",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/a22b9a32d3fb.html",
       "condition": "used",
-      "price": 22498.0,
+      "price": 22989.0,
       "price_currency": "CAD"
     },
     {
@@ -134,7 +134,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Used2022 Ram 1500 SPORT, stk P2039A, for sale in Trail, BC serving Kelowna",
+      "name": "Used2022 Ram 1500 SPORT, stk P2039A, for sale in Trail, BC",
       "vin": "1C6SRFVT2NN416265",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/c688829d8e72.html",
       "condition": "used",
@@ -220,7 +220,7 @@
       "vin": "1C6SRFLP1SN604874",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/2d2ab11a390c.html",
       "condition": "used",
-      "price": 90305.0,
+      "price": 59989.0,
       "price_currency": "CAD"
     },
     {
@@ -783,7 +783,7 @@
       "make": "Thor",
       "model": "Motor Coach ACE 33.6",
       "condition": "used",
-      "price": 89989.0,
+      "price": 74889.0,
       "price_currency": "CAD"
     },
     {
@@ -805,7 +805,7 @@
       "make": "Keystone",
       "model": "Springdale 240BH",
       "condition": "used",
-      "price": 24989.0,
+      "price": 22889.0,
       "price_currency": "CAD"
     },
     {
@@ -816,7 +816,7 @@
       "make": "Grand",
       "model": "Design TRANSCEND XPLOR 260RB",
       "condition": "used",
-      "price": 29998.0,
+      "price": 26489.0,
       "price_currency": "CAD"
     },
     {
