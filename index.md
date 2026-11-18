@@ -1,6 +1,6 @@
 # Kootenay Chrysler Dodge Jeep Ram Ltd.
 
- dealership in Trail. AI-readable inventory mirror, about 107 vehicles.
+ dealership in Trail. AI-readable inventory mirror, about 106 vehicles.
 
 - Official website: https://www.kootenaychryslerdealer.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/used/

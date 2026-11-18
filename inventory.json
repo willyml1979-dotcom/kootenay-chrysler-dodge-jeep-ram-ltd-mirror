@@ -1,7 +1,7 @@
 {
   "dealership": "Kootenay Chrysler Dodge Jeep Ram Ltd",
-  "generated_at": "2026-11-16T23:40:15",
-  "vehicle_count": 107,
+  "generated_at": "2026-11-17T19:22:12",
+  "vehicle_count": 106,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -472,7 +472,7 @@
       "vin": "1C6SRFJP0TN407005",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/f784c0456062.html",
       "condition": "new",
-      "price": 92355.0,
+      "price": 82355.0,
       "price_currency": "CAD"
     },
     {
@@ -480,7 +480,7 @@
       "vin": "1C6SRFJP2TN407006",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/a9fb2c17b6bb.html",
       "condition": "new",
-      "price": 92355.0,
+      "price": 82355.0,
       "price_currency": "CAD"
     },
     {
@@ -488,7 +488,7 @@
       "vin": "1C6SRFJP4TN407007",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/db6f36be6f8a.html",
       "condition": "new",
-      "price": 93155.0,
+      "price": 83155.0,
       "price_currency": "CAD"
     },
     {
@@ -496,7 +496,7 @@
       "vin": "1C6SRFKP2TN410826",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/6f26ee817eab.html",
       "condition": "new",
-      "price": 108730.0,
+      "price": 98730.0,
       "price_currency": "CAD"
     },
     {
@@ -504,7 +504,7 @@
       "vin": "1C6SRFKP4TN410827",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/e78631b95376.html",
       "condition": "new",
-      "price": 108630.0,
+      "price": 98630.0,
       "price_currency": "CAD"
     },
     {
@@ -512,7 +512,7 @@
       "vin": "1C6SRFTP6TN445416",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/66c7c592a693.html",
       "condition": "new",
-      "price": 91700.0,
+      "price": 81700.0,
       "price_currency": "CAD"
     },
     {
@@ -520,7 +520,7 @@
       "vin": "1C6SRFTP2TN445414",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/60c50f78105e.html",
       "condition": "new",
-      "price": 91700.0,
+      "price": 81700.0,
       "price_currency": "CAD"
     },
     {
@@ -528,7 +528,7 @@
       "vin": "3C6SRFLP8T4216701",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/4d1dc047c7e9.html",
       "condition": "new",
-      "price": 86910.0,
+      "price": 76910.0,
       "price_currency": "CAD"
     },
     {
@@ -544,15 +544,7 @@
       "vin": "1C6SRFTP0TN445413",
       "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/b72ec70f3952.html",
       "condition": "new",
-      "price": 91600.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2026 Ram 1500 REBEL, stk 26173, for sale in Trail, BC",
-      "vin": "1C6SRFLT3TN423824",
-      "url": "https://willyml1979-dotcom.github.io/kootenay-chrysler-dodge-jeep-ram-ltd-mirror/new/de4b3c4d78b7.html",
-      "condition": "new",
-      "price": 89610.0,
+      "price": 81600.0,
       "price_currency": "CAD"
     },
     {
